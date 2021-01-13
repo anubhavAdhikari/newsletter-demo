@@ -1,2 +1,4 @@
-# newsletter-demo
-A demo of a newsletter subscription service using Mailchimp API, that runs on Heroku's server.
+# tindog
+Help your dog find the love of their life!
+
+A demo website to illustrate knowledge on HTML, CSS, and Bootstrap.
